@@ -1,0 +1,7 @@
+{
+  "ok_rate_percent": 99.4,
+  "avg_ms": 180.5,
+  "p95_ms": 420.0,
+  "p99_ms": 780.2,
+  "n_samples": 150
+}

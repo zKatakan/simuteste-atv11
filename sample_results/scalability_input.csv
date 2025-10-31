@@ -1,0 +1,5 @@
+servidores,throughput_ideal,throughput_real
+1,200,200
+2,400,380
+4,800,720
+8,1600,1290

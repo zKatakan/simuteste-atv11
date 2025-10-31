@@ -1,0 +1,11 @@
+{
+  "rate_limit": {
+    "sent": 130,
+    "status_429": 22
+  },
+  "auth_rbac": {
+    "login_invalido": 401,
+    "admin_sem_token": 401,
+    "admin_com_token": 200
+  }
+}
